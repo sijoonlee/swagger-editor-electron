@@ -1,14 +1,14 @@
 {
   "name": "swagger-electron",
   "version": "1.0.0",
-  "description": "",
+  "description": "Swagger Editor in Electron App",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
-  "author": "",
+  "author": "Sijoon",
   "license": "ISC",
   "devDependencies": {
     "@electron-forge/cli": "^7.4.0",
